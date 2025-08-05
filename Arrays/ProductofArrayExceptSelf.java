@@ -1,3 +1,4 @@
+//My Profile : https://leetcode.com/u/Ramadeepthi/
 //Problem : Product of Array Except Self
 //Leetcode Link : https://leetcode.com/problems/product-of-array-except-self/description/
 
@@ -11,8 +12,8 @@
 */
 
 /* 
-Time  Complecity : O(n)
-Space Complecity : O(1)
+Time  Complexity : O(n)
+Space Complexity : O(1)
 */ 
 
 //code:
