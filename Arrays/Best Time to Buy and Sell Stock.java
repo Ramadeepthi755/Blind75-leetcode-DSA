@@ -1,5 +1,5 @@
 //Leetcode:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-//Approuch:using Dynamic programing
+//Approuch:use Dynamic programing approuch
 
 class Solution {
     public int maxProfit(int[] prices) {
