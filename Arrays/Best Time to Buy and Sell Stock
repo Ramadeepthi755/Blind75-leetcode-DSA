@@ -1,5 +1,6 @@
-//Problem - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-//using Dynamic programing
+//Leetcode:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+//Approuch:using Dynamic programing
+
 class Solution {
     public int maxProfit(int[] prices) {
         int min=prices[0];
